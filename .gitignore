@@ -4,3 +4,5 @@
 /192.168.56.1.tm14.epoch
 /tmlog14.log
 /tmlog.lck
+/.settings/
+/.mvn/
